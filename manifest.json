@@ -1,6 +1,6 @@
 {
-    "name":"PWA example",
-    "short_name":"PWA",
+    "name":"Code Editor",
+    "short_name":"Code Editor",
     "start_url":".",
     "background_color":"#0e674f",
     "theme_color":"#1c74a0",
